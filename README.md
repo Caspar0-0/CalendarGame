@@ -1,1 +1,2 @@
 # CalendarGame
+This program is a game between two players, and the player who wins the coin flip will go first. Each player entered a valid date and then switch turns. Moreover, for invalid inputs, there will be corresponding error message.  The person who got three strikes will directly lose the game, and who finally enters Dec 31 without conflicting with strike rules will win the game and the program will ask whether they would like a restart.
